@@ -1,3 +1,4 @@
+import { PostProvider } from "./postContext";
 
 import DarkModeToggle from "./component/DarkModeToggle";
 import Header from "./component/Header";
