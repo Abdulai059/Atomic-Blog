@@ -1,4 +1,4 @@
-import { usePosts } from "../postContext";
+import { usePosts } from "../context/postContext";
 
 function List() {
   //3) CONSUME THE CONTEXT VALUE IN THE CHILD COMPONENT

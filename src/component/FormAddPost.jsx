@@ -1,6 +1,5 @@
 import { useState } from "react";
-import { usePosts } from "../postContext";
-
+import { usePosts } from "../context/postContext";
 
 function FormAddPost() {
   //3) CONSUME THE CONTEXT VALUE IN THE CHILD COMPONENT

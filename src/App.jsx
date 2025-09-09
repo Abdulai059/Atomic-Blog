@@ -1,4 +1,4 @@
-import { PostProvider } from "./postContext";
+import { PostProvider } from "./context/postContext";
 
 import DarkModeToggle from "./component/DarkModeToggle";
 import Header from "./component/Header";

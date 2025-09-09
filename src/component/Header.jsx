@@ -1,6 +1,5 @@
-import { usePosts } from "../postContext";
+import { usePosts } from "../context/postContext";
 import Results from "./Results ";
-
 import SearchPosts from "./SearchPosts";
 
 function Header() {
